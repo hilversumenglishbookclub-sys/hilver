@@ -1,0 +1,7 @@
+{
+  "name": "Your Life. Your Choices. Your Wahala.",
+  "description": "An interactive Nigerian life and relationship drama simulator where your choices shape romance, money, career, and wahala in Lagos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
